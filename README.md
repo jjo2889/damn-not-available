@@ -4,10 +4,10 @@
 출신지 : 경상북도 X X  
 학력 : 지방대 4년  
 
-
+<!--
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-800000.svg?&style=for-the-badge&logo=Python&logoColor=white)
-
+-->
 
 
 <!--깃허브 카드-->
